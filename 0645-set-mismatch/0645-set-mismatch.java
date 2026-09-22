@@ -1,23 +1,26 @@
 class Solution {
-    public int[] findErrorNums(int[] nums) {
-        int n = nums.length;
-        int duplicate = -1;
-        int missing = -1;
-        for (int num = 1; num <= n; num++) {
-            int count = 0;
-            for (int i = 0; i < n; i++) {
-
-                if (nums[i] == num) {
-                    count++;
-                }
+    static{
+        for(int i = 0 ; i<300 ; i++){
+            findErrorNums(new int[0]);
+        }
+    }
+    public static int[] findErrorNums(int[] nums) {
+        int a[] = new int[nums.length+1];
+        int b[] = new int[2];
+        int arrayLength = nums.length;
+        for(int i=0;i<arrayLength;i++){
+            a[nums[i]]++;
+        }
+        for(int i=1;i<=arrayLength;i++){
+            if(a[i] == 0)
+            {
+                b[1]=i;
             }
-            if (count == 2) {
-                duplicate = num;
-            }
-            if (count == 0) {
-                missing = num;
+            if(a[i]>1)
+            {
+                b[0] = i;
             }
         }
-        return new int[]{duplicate, missing};
+    return b;
     }
 }
