@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/istutix123-lang/Leetcode/tree/master/0263-ugly-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/istutix123-lang/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/istutix123-lang/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/istutix123-lang/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/istutix123-lang/Leetcode/tree/master/0204-count-primes) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/istutix123-lang/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Primality Test
 |  |
 | ------- |
