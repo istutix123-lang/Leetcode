@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/istutix123-lang/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/istutix123-lang/Leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/istutix123-lang/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/istutix123-lang/Leetcode/tree/master/0263-ugly-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/istutix123-lang/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/istutix123-lang/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
@@ -130,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/istutix123-lang/Leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/istutix123-lang/Leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/istutix123-lang/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
