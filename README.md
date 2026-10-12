@@ -41,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/istutix123-lang/Leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/istutix123-lang/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/istutix123-lang/Leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/istutix123-lang/Leetcode/tree/master/0412-fizz-buzz) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/istutix123-lang/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/istutix123-lang/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/istutix123-lang/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/istutix123-lang/Leetcode/tree/master/0412-fizz-buzz) |
 | [2810-faulty-keyboard](https://github.com/istutix123-lang/Leetcode/tree/master/2810-faulty-keyboard) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/istutix123-lang/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 ## Combinatorics
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/istutix123-lang/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/istutix123-lang/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/istutix123-lang/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/istutix123-lang/Leetcode/tree/master/0412-fizz-buzz) |
 | [0917-reverse-only-letters](https://github.com/istutix123-lang/Leetcode/tree/master/0917-reverse-only-letters) |
 | [2810-faulty-keyboard](https://github.com/istutix123-lang/Leetcode/tree/master/2810-faulty-keyboard) |
 ## String Matching
