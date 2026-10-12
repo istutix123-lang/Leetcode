@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/istutix123-lang/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/istutix123-lang/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/istutix123-lang/Leetcode/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/istutix123-lang/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/istutix123-lang/Leetcode/tree/master/0342-power-of-four) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/istutix123-lang/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/istutix123-lang/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
@@ -141,5 +142,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/istutix123-lang/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/istutix123-lang/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/istutix123-lang/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
