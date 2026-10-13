@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/istutix123-lang/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/istutix123-lang/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/istutix123-lang/Leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/istutix123-lang/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/istutix123-lang/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 ## Prefix Sum
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/istutix123-lang/Leetcode/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/istutix123-lang/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
