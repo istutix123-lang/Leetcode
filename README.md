@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/istutix123-lang/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/istutix123-lang/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0917-reverse-only-letters](https://github.com/istutix123-lang/Leetcode/tree/master/0917-reverse-only-letters) |
+| [1768-merge-strings-alternately](https://github.com/istutix123-lang/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/istutix123-lang/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Greedy
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/istutix123-lang/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/istutix123-lang/Leetcode/tree/master/0412-fizz-buzz) |
 | [0917-reverse-only-letters](https://github.com/istutix123-lang/Leetcode/tree/master/0917-reverse-only-letters) |
+| [1768-merge-strings-alternately](https://github.com/istutix123-lang/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2810-faulty-keyboard](https://github.com/istutix123-lang/Leetcode/tree/master/2810-faulty-keyboard) |
 ## String Matching
 |  |
