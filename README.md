@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/istutix123-lang/Leetcode/tree/master/0011-container-with-most-water) |
+| [0041-first-missing-positive](https://github.com/istutix123-lang/Leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/istutix123-lang/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/istutix123-lang/Leetcode/tree/master/0204-count-primes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/istutix123-lang/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/istutix123-lang/Leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/istutix123-lang/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/istutix123-lang/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/istutix123-lang/Leetcode/tree/master/0242-valid-anagram) |
