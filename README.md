@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/istutix123-lang/Leetcode/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/istutix123-lang/Leetcode/tree/master/0041-first-missing-positive) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/istutix123-lang/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/istutix123-lang/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/istutix123-lang/Leetcode/tree/master/0204-count-primes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/istutix123-lang/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -201,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/istutix123-lang/Leetcode/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/istutix123-lang/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/istutix123-lang/Leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/istutix123-lang/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
