@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/istutix123-lang/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/istutix123-lang/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/istutix123-lang/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/istutix123-lang/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/istutix123-lang/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/istutix123-lang/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/istutix123-lang/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/istutix123-lang/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0917-reverse-only-letters](https://github.com/istutix123-lang/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/istutix123-lang/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/istutix123-lang/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/istutix123-lang/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/istutix123-lang/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/istutix123-lang/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/istutix123-lang/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/istutix123-lang/Leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/istutix123-lang/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/istutix123-lang/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/istutix123-lang/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Divide and Conquer
 |  |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/istutix123-lang/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/istutix123-lang/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/istutix123-lang/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/istutix123-lang/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/istutix123-lang/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/istutix123-lang/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/istutix123-lang/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/istutix123-lang/Leetcode/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/istutix123-lang/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/istutix123-lang/Leetcode/tree/master/0367-valid-perfect-square) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/istutix123-lang/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/istutix123-lang/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
