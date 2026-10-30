@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/istutix123-lang/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/istutix123-lang/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/istutix123-lang/Leetcode/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/istutix123-lang/Leetcode/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/istutix123-lang/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/istutix123-lang/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/istutix123-lang/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/istutix123-lang/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/istutix123-lang/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/istutix123-lang/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/istutix123-lang/Leetcode/tree/master/0441-arranging-coins) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/istutix123-lang/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/istutix123-lang/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Floyd's Cycle Finding Algorithm
