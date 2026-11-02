@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/istutix123-lang/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/istutix123-lang/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/istutix123-lang/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/istutix123-lang/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/istutix123-lang/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/istutix123-lang/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/istutix123-lang/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/istutix123-lang/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/istutix123-lang/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/istutix123-lang/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/istutix123-lang/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/istutix123-lang/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/istutix123-lang/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/istutix123-lang/Leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/istutix123-lang/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/istutix123-lang/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/istutix123-lang/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/istutix123-lang/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/istutix123-lang/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
