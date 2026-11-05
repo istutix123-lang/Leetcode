@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/istutix123-lang/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/istutix123-lang/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/istutix123-lang/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/istutix123-lang/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/istutix123-lang/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/istutix123-lang/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/istutix123-lang/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -121,12 +122,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/istutix123-lang/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/istutix123-lang/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/istutix123-lang/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/istutix123-lang/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/istutix123-lang/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/istutix123-lang/Leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/istutix123-lang/Leetcode/tree/master/0169-majority-element) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/istutix123-lang/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
