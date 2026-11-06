@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/istutix123-lang/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/istutix123-lang/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/istutix123-lang/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/istutix123-lang/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/istutix123-lang/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/istutix123-lang/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/istutix123-lang/Leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/istutix123-lang/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/istutix123-lang/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/istutix123-lang/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 ## Two Pointers
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/istutix123-lang/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/istutix123-lang/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/istutix123-lang/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/istutix123-lang/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Math
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/istutix123-lang/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/istutix123-lang/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/istutix123-lang/Leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/istutix123-lang/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Counting
 |  |
 | ------- |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/istutix123-lang/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/istutix123-lang/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/istutix123-lang/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/istutix123-lang/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
