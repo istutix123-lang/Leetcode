@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/istutix123-lang/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0463-island-perimeter](https://github.com/istutix123-lang/Leetcode/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/istutix123-lang/Leetcode/tree/master/0506-relative-ranks) |
+| [0575-distribute-candies](https://github.com/istutix123-lang/Leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/istutix123-lang/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/istutix123-lang/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/istutix123-lang/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/istutix123-lang/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/istutix123-lang/Leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/istutix123-lang/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0575-distribute-candies](https://github.com/istutix123-lang/Leetcode/tree/master/0575-distribute-candies) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/istutix123-lang/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/istutix123-lang/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Divide and Conquer
