@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/istutix123-lang/Leetcode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/istutix123-lang/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0141-linked-list-cycle](https://github.com/istutix123-lang/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/istutix123-lang/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/istutix123-lang/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/istutix123-lang/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/istutix123-lang/Leetcode/tree/master/0041-first-missing-positive) |
+| [0141-linked-list-cycle](https://github.com/istutix123-lang/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/istutix123-lang/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/istutix123-lang/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/istutix123-lang/Leetcode/tree/master/0242-valid-anagram) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/istutix123-lang/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/istutix123-lang/Leetcode/tree/master/0202-happy-number) |
 ## Enumeration
 |  |
@@ -277,5 +280,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/istutix123-lang/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/istutix123-lang/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
