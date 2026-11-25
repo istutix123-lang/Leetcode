@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/istutix123-lang/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/istutix123-lang/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/istutix123-lang/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0821-shortest-distance-to-a-character](https://github.com/istutix123-lang/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0977-squares-of-a-sorted-array](https://github.com/istutix123-lang/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/istutix123-lang/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1046-last-stone-weight](https://github.com/istutix123-lang/Leetcode/tree/master/1046-last-stone-weight) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/istutix123-lang/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/istutix123-lang/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/istutix123-lang/Leetcode/tree/master/0455-assign-cookies) |
+| [0821-shortest-distance-to-a-character](https://github.com/istutix123-lang/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/istutix123-lang/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/istutix123-lang/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/istutix123-lang/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/istutix123-lang/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/istutix123-lang/Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/istutix123-lang/Leetcode/tree/master/0412-fizz-buzz) |
+| [0821-shortest-distance-to-a-character](https://github.com/istutix123-lang/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/istutix123-lang/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/istutix123-lang/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2810-faulty-keyboard](https://github.com/istutix123-lang/Leetcode/tree/master/2810-faulty-keyboard) |
