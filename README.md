@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/istutix123-lang/Leetcode/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/istutix123-lang/Leetcode/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/istutix123-lang/Leetcode/tree/master/0575-distribute-candies) |
+| [0605-can-place-flowers](https://github.com/istutix123-lang/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/istutix123-lang/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/istutix123-lang/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/istutix123-lang/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/istutix123-lang/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/istutix123-lang/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/istutix123-lang/Leetcode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/istutix123-lang/Leetcode/tree/master/0605-can-place-flowers) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/istutix123-lang/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/istutix123-lang/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Math
